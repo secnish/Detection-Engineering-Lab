@@ -52,9 +52,9 @@ index=main source="WinEventLog:SilkService-Log"
 ## 🤝 Connect with the Researcher
 If you are interested in detection engineering, SIEM optimization, or SOC operations, let’s connect!
 
-* 📝 **Medium:** [Read my Investigations](INSERT_YOUR_MEDIUM_URL_HERE)
-* 💼 **LinkedIn:** [Connect on LinkedIn](INSERT_YOUR_LINKEDIN_URL_HERE)
-* 📧 **Email:** [Your Professional Email](mailto:your.email@example.com)
+* 📝 **Medium:** [Read my Investigations](secnish.medium.com)
+* 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/secnish/)
+* 📧 **Email:** [Your Professional Email](mailto:secops.manish@gmail.com)
 
 **Current Goal:** I am actively preparing for **SOC Analyst** and **Detection Engineering** placements, focusing on high-fidelity alerting and incident response.
 
