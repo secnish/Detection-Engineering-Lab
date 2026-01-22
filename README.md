@@ -54,7 +54,7 @@ If you are interested in detection engineering, SIEM optimization, or SOC operat
 
 * 📝 **Medium:** [Read my Investigations](secnish.medium.com)
 * 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/secnish/)
-* 📧 **Email:** [Your Professional Email](mailto:secops.manish@gmail.com)
+* 📧 **Email:** [My Professional Email](mailto:secops.manish@gmail.com)
 
 **Current Goal:** I am actively preparing for **SOC Analyst** and **Detection Engineering** placements, focusing on high-fidelity alerting and incident response.
 
