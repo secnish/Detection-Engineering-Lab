@@ -1,6 +1,8 @@
 # Cybersecurity Research & Detection Lab
 ### 👨‍💻 Developed by Manish
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ddb43f4d-648b-4439-8fa7-43772e25fc80" />
+
 > **The Philosophy:** Moving beyond the "Search Bar" mindset. This repository documents my transition from finding "flags" in CTFs to engineering production-grade detection logic for enterprise environments.
 
 ---
